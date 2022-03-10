@@ -2,7 +2,7 @@
 
 
 
-/**
+/*
 
  * main - prints the size of various types
 
@@ -27,3 +27,4 @@ int main(void)
 	return (0);
 
 }
+
